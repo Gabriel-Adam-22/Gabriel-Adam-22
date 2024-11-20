@@ -4,7 +4,7 @@
 - 📫 How to reach me : Gabriel.v.adam@gmail.com
 - ⚡ Fun fact: The 22nd is the day I started programming that's why my nickname is Gabriel-Adam-22
 
-<!--- - 🌱 I’m currently learning : Python --->
+<!--- - 🌱 I’m currently learning :  --->
 
 
 <!---
