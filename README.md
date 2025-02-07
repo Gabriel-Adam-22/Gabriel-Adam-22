@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Adam
-- 👀 I want to learn : Web (HTML,JS,CSS), C XOR C++
-- ✅ Languages ​​I use : Python, MarkDown
+- 👀 I want to learn : Web (HTML,JS,CSS), C and C++
+- ✅ Languages ​​I use/know : Python, MarkDown
 - 📫 How to reach me : Gabriel.v.adam@gmail.com
 - ⚡ Fun fact: The 22nd is the day I started programming that's why my nickname is Gabriel-Adam-22
 
